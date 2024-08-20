@@ -50,8 +50,8 @@ todo-list-app/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/fullstack-todo-app.git
-   cd fullstack-todo-app
+   git clone https://github.com/your-username/fullstack-todo.git
+   cd fullstack-todo
    ```
 
 2. Install frontend dependencies:
